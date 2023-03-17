@@ -1,0 +1,21 @@
+.leftNavBar {
+    background-color: #1D1D1D;
+    height: 100vh;
+    width: 20%;
+    color: white;
+    box-shadow: 0px 0px 5px 0px black;
+    position: fixed;
+}
+
+.languageButton {
+    text-align: left;
+    width: 80%;
+}
+
+.badgeTitle {
+    color: #db1144;
+    width: 97%;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.5em;
+}
