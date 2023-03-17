@@ -1,6 +1,6 @@
 # ![logo bewebcademy](./bewebcademy-app-v1/src/assets/logo_bewebcademy_whitetext.svg)
 
-L’application doit permettre à des personnes voulant intégrer la formation Développeur Web et Web Mobile, de **passer une série d'exercices basiques et pratiques sur le modèle de Codecademy** afin que l’équipe pédagogique puisse contrôler l'avancée dans les badges. Un badge etant une récompense suite à la réussite d'une série d'exercices.
+L’application doit permettre à des personnes voulant intégrer la formation Développeur Web et Web Mobile dans le centre de fondespierre-Beweb, de **passer une série d'exercices basiques et pratiques sur le modèle de Codecademy** afin que l’équipe pédagogique puisse contrôler l'avancée dans les badges. Un badge etant une récompense suite à la réussite d'une série d'exercices.
 
 Afin de fournir les fonctionnalités souhaitées dans le temps imparti, le design, et la typographie **n'ont pas été terminés**.
 
