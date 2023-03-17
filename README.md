@@ -5,7 +5,7 @@ L’application doit permettre à des personnes voulant intégrer la formation D
 Afin de fournir les fonctionnalités souhaitées dans le temps imparti, le design, et la typographie **n'ont pas été terminés**.
 
 ## Techno et outils utilisés
-- Javascript et React
+- Javascript, typescript et React
 - NodeJs (express, mongoose, axios)
 - Python (script créé pour automatiser les commits sur les 6 repositories correspondants aux services)
 - MongoDB
